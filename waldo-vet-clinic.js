@@ -1,6 +1,6 @@
 /**
- * Waldo Area Veterinary Clinic - Interactive JavaScript
- * Handles navigation, form submissions, and interactive elements
+ * Waldo Dog Mama - Interactive JavaScript
+ * Handles navigation, form submissions, and sophisticated interactions
  */
 
 document.addEventListener('DOMContentLoaded', function() {
